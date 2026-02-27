@@ -1,0 +1,17 @@
+Body{
+    background-color: rgb(200, 105, 209);
+}
+h1{color: rgb(240, 244, 246);
+
+}
+
+p{
+    color: antiquewhite;
+}
+
+img{
+    width: 370px; /*largura*/
+    height: 380px; /*altura*/
+    border-radius: 1000px;
+}
+
